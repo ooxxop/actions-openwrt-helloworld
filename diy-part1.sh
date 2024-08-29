@@ -18,3 +18,4 @@ echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.defau
 
 # Lienol/openwrt-package
 #sed -i '$a src-git lienol https://github.com/Lancenas/lienol-openwrt-package.git' feeds.conf.default
+git clone https://github.com/Siriling/5G-Modem-Support.git
